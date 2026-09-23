@@ -1,0 +1,6 @@
+= Change log 0PB2_logo_plate =
+
+[LAST]
+
+# v1 - 2023-1-16 : New part
+
