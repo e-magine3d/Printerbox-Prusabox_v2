@@ -1,0 +1,7 @@
+= Change log 0PB2_corner_top_FL-BR =
+
+[LAST]
+
+# v1 - 2023-1-20 : New part for top corner : This part is for front left or back right corner.
+For front right and back left, it is the symetrical.
+

@@ -1,0 +1,6 @@
+= Change log 0PB2_corner_bottom =
+
+[LAST]
+
+# v1 - 2023-1-20 : New part
+
