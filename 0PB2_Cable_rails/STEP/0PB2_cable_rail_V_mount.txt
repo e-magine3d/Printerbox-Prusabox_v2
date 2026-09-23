@@ -1,0 +1,6 @@
+= Change log 0PB2_cable_rail_V_mount =
+
+[LAST]
+
+# v1 - 2023-1-16 : New part
+
