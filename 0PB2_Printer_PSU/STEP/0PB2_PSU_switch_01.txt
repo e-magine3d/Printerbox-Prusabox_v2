@@ -1,0 +1,6 @@
+= Change log 0PB2_PSU_switch_01 =
+
+[LAST]
+
+# v1 - 2023-1-20 : new part for power switch S-03F series
+

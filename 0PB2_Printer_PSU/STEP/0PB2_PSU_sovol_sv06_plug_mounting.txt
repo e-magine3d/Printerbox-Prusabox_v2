@@ -1,0 +1,3 @@
+= Change log 0PB2_PSU_sovol_sv06_plug_mounting =
+
+[LAST]

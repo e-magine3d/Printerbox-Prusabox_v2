@@ -1,0 +1,9 @@
+= Change log 0PB2_PSU_bracket_03 =
+
+[LAST]
+
+# v1.1 - 2024-7-18 : additional cover for electric connection
+
+
+# v1 - 2023-2-22 : New part
+

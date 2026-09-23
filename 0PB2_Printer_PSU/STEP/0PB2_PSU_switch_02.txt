@@ -1,0 +1,6 @@
+= Change log 0PB2_PSU_switch_02 =
+
+[LAST]
+
+# v1 - 2023-2-22 : New part
+

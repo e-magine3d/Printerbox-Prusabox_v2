@@ -1,0 +1,6 @@
+= Change log 0PB2_PSU_bracket_04 =
+
+[LAST]
+
+# v1 - 2024-7-18 : New part
+

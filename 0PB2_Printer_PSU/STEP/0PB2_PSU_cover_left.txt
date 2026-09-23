@@ -1,0 +1,6 @@
+= Change log 0PB2_PSU_cover_left =
+
+[LAST]
+
+# v1 - 2023-1-20 : New part
+
