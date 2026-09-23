@@ -1,0 +1,6 @@
+= Change log 0PB2_printer-feet_20x40_profil_elastomer_30mm =
+
+[LAST]
+
+# v1 - 2023-2-23 : New part
+

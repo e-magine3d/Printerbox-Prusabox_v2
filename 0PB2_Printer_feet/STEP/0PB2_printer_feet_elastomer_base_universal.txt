@@ -1,0 +1,6 @@
+= Change log 0PB2_printer_feet_elastomer_base_universal =
+
+[LAST]
+
+# v1 - 2023-2-6 : New part that fit to Prusabox and Modularbox
+
