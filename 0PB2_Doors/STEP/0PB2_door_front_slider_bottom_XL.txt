@@ -1,0 +1,6 @@
+= Change log 0PB2_door_front_slider_bottom_XL =
+
+[LAST]
+
+# v1 - 2023-1-16 : new part
+

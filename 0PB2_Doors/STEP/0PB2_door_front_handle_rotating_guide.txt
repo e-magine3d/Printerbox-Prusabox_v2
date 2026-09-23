@@ -1,0 +1,6 @@
+= Change log 0PB2_door_front_handle_rotating_guide =
+
+[LAST]
+
+# v1 - 2023-2-28 : New part
+

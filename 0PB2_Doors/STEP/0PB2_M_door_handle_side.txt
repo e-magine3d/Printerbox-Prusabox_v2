@@ -1,0 +1,6 @@
+= Change log 0PB2_M_door_handle_side_v1 =
+
+[LAST]
+
+# v1 - 2024-7-16 : Release
+

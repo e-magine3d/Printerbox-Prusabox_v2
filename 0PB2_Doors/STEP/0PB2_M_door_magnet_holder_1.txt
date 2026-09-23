@@ -1,0 +1,6 @@
+= Change log 0PB2_M_door_magnet_holder_1 =
+
+[LAST]
+
+# v0.1 - 2024-7-16 : Release
+
