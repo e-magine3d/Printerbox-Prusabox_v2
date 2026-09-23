@@ -1,0 +1,8 @@
+= Change log 0PB2_front_slot_caribou_plate =
+
+[LAST]
+
+# v1.1 - 2023-2-2 : Adding square nuts
+
+# v1 - 2023-1-16 : new part
+

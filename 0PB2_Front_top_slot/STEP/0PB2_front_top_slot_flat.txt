@@ -1,0 +1,6 @@
+= Change log 0PB2_front_top_slot_flat =
+
+[LAST]
+
+# v1 - 2023-2-2 : New part
+

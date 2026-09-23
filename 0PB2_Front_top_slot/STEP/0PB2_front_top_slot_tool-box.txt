@@ -1,0 +1,6 @@
+= Change log 0PB2_front_top_slot_tool-box =
+
+[LAST]
+
+# v1 - 2023-2-3 : New part
+
