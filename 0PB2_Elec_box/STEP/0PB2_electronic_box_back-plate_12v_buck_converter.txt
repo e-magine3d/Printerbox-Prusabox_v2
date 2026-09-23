@@ -1,0 +1,6 @@
+= Change log 0PB2_electronic_box_back-plate_12v_buck_converter =
+
+[LAST]
+
+# v1.3 - 2024-9-30 : Cutable part
+

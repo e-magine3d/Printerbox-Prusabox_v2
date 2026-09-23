@@ -1,0 +1,9 @@
+= Change log 0PB2_electronic_box_back-plate_12v_plug =
+
+[LAST]
+
+# v1.3 - 2024-9-30 : Cutable part
+
+
+# v1.2 - 2023-5-16 : New part
+

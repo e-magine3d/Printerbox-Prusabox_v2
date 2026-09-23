@@ -1,0 +1,6 @@
+= Change log 0PB2_elec_box_plug_plate_12V =
+
+[LAST]
+
+# v1 - 2023-1-20 : new part
+

@@ -1,0 +1,6 @@
+= Change log 0PB2_electronic_full_box_base =
+
+[LAST]
+
+# v1 - 2024-10-2 : New part
+
